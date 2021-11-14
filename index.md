@@ -5,7 +5,7 @@ Thank you for using Between. For any inquries or concerns please send me an emai
 # Privacy Policy
 By using the app "Between" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
 
-## Collection of Personal Information
+### Collection of Personal Information
 We do no collect any personal information. Any addresses inputted into the app will remain on the device.
 
 ### Email
